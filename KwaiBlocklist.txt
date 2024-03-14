@@ -1,62 +1,59 @@
-
-
-
-ak-br-cdn.kwai.net
-cdn-static.kwai.net
-t-api-pro.adaether.com
-ntp.kslawin.com
-aws-sgp-pic.snackvideo.in
-ali-pro-pull.kwai.net
-bs-pro-origin-pull.kwai.net
-cdn-static.ap4r.com
-cloudflare-br-cdn.kwai.net
-klink.snackvideo.com
-klink-me.kwai-pro.com
-k-api.mythad.com
-akv2-br-cdn.kwai.net
-ali-pro-origin-pull.kwai.net
-ws-pro-pull.kwai.net
-reload.kwai.net
-ws-br-cdn.kwai.net
-txv2-br-cdn.kwai.net
-g-br-cdn.kwai.net
-tx-br-pic.kwai.net
-az2-api-akpro.kwai-pro.com
-ntp.kwai.com
-klink.kwai-pro.com
-klink.snackvideo.com
-klink-me.kwai-pro.com
-k-api.mythad.com
-akv2-br-cdn.kwai.net
-ali-pro-origin-pull.kwai.net
-ws-pro-pull.kwai.net
-az2-api-akpro.kwaipros.com
-az2-api-txpro.kwai-pro.com
-aws-br-pic.kwai.net
-tx-pro-pull.kwai.net
-ak-static.kwai.net
-d4-magic.a.kwimgs.com
-tx-br-pic.kwai.net
-az2-api-akpro.kwai-pro.com
-ntp.kwai.com
-klink.kwai-pro.com
-kuaishou.com
-k-ulog.kwaipros.com
-k-ulog.kwai-pro.com
-t-ulog-pro.kwaipros.com
-cloudflare-br-pic.kwai.net
-ak-sgp-pic.snackvideo.in
-aws-static.snackvideo.in
-ws-pro-origin-pull.kwai.net
-tx-pro-origin-pull.kwai.net
-w-zt.kwaipros.com
-g-zt.kwai-pro.com
-t-ulog-pro.kwai-pro.com
-g-gdfp.uvfuns.com
-speechs3proto2-pa.googleapis.com
-s16.kwai.net
-s15.kwai.net
-s22.kwai.net
-aws-br-cdn.kwai.net
-tx-br-cdn.kwai.net
-sixinpic.kwai-pro.com
+0.0.0.0 ak-br-cdn.kwai.net
+0.0.0.0 cdn-static.kwai.net
+0.0.0.0 t-api-pro.adaether.com
+0.0.0.0 ntp.kslawin.com
+0.0.0.0 aws-sgp-pic.snackvideo.in
+0.0.0.0 ali-pro-pull.kwai.net
+0.0.0.0 bs-pro-origin-pull.kwai.net
+0.0.0.0 cdn-static.ap4r.com
+0.0.0.0 cloudflare-br-cdn.kwai.net
+0.0.0.0 klink.snackvideo.com
+0.0.0.0 klink-me.kwai-pro.com
+0.0.0.0 k-api.mythad.com
+0.0.0.0 akv2-br-cdn.kwai.net
+0.0.0.0 ali-pro-origin-pull.kwai.net
+0.0.0.0 ws-pro-pull.kwai.net
+0.0.0.0 reload.kwai.net
+0.0.0.0 ws-br-cdn.kwai.net
+0.0.0.0 txv2-br-cdn.kwai.net
+0.0.0.0 g-br-cdn.kwai.net
+0.0.0.0 tx-br-pic.kwai.net
+0.0.0.0 az2-api-akpro.kwai-pro.com
+0.0.0.0 ntp.kwai.com
+0.0.0.0 klink.kwai-pro.com
+0.0.0.0 klink.snackvideo.com
+0.0.0.0 klink-me.kwai-pro.com
+0.0.0.0 k-api.mythad.com
+0.0.0.0 akv2-br-cdn.kwai.net
+0.0.0.0 ali-pro-origin-pull.kwai.net
+0.0.0.0 ws-pro-pull.kwai.net
+0.0.0.0 az2-api-akpro.kwaipros.com
+0.0.0.0 az2-api-txpro.kwai-pro.com
+0.0.0.0 aws-br-pic.kwai.net
+0.0.0.0 tx-pro-pull.kwai.net
+0.0.0.0 ak-static.kwai.net
+0.0.0.0 d4-magic.a.kwimgs.com
+0.0.0.0 tx-br-pic.kwai.net
+0.0.0.0 az2-api-akpro.kwai-pro.com
+0.0.0.0 ntp.kwai.com
+0.0.0.0 klink.kwai-pro.com
+0.0.0.0 kuaishou.com
+0.0.0.0 k-ulog.kwaipros.com
+0.0.0.0 k-ulog.kwai-pro.com
+0.0.0.0 t-ulog-pro.kwaipros.com
+0.0.0.0 cloudflare-br-pic.kwai.net
+0.0.0.0 ak-sgp-pic.snackvideo.in
+0.0.0.0 ws-pro-origin-pull.kwai.net
+0.0.0.0 aws-static.snackvideo.in
+0.0.0.0 tx-pro-origin-pull.kwai.net
+0.0.0.0 w-zt.kwaipros.com
+0.0.0.0 g-zt.kwai-pro.com
+0.0.0.0 t-ulog-pro.kwai-pro.com
+0.0.0.0 g-gdfp.uvfuns.com
+0.0.0.0 speechs3proto2-pa.googleapis.com
+0.0.0.0 s16.kwai.net
+0.0.0.0 s15.kwai.net
+0.0.0.0 s22.kwai.net
+0.0.0.0 aws-br-cdn.kwai.net
+0.0.0.0 tx-br-cdn.kwai.net
+0.0.0.0 sixinpic.kwai-pro.com
